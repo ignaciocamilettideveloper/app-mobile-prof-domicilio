@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333699636217",
+    "firebase_url": "https://appgeo-f24c0.firebaseio.com",
+    "project_id": "appgeo-f24c0",
+    "storage_bucket": "appgeo-f24c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333699636217:android:67361e37cf2f5c7d6c7b28",
+        "android_client_info": {
+          "package_name": "cl.innovatti.geoappgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333699636217-mm6onfk8bnrvgiloa726dq7d6ccn70cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.innovatti.geoappgoogle",
+            "certificate_hash": "f2d04787342b2d3c5bb7212aa600c5f522265510"
+          }
+        },
+        {
+          "client_id": "333699636217-6c091qn7r0iaf706ppduuhuu8jnnv126.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsqV7mApovX5cN2HEN5u6n0qmbGRyh7qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333699636217-6c091qn7r0iaf706ppduuhuu8jnnv126.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
